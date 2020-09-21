@@ -1,0 +1,19 @@
+img{
+  width: 300px;
+}
+body{
+  font-family: "lucida sans unicode",Sans-Serif;
+  
+  background-image: url("https://www.solidbackgrounds.com/images/1280x1024/1280x1024-queen-blue-solid-color-background.jpg");
+  background-repeat: no-repeat;
+  background-size: 1800px 90px;
+  
+  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
